@@ -5,3 +5,7 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+# Python virtual environments
+.venv/
+venv/
+ENV/
